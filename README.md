@@ -11,3 +11,7 @@ In order to run it, one should perpare a json file with preprocessed dataset tha
 	* embedding - array of objects embeddings into a latent semantic space
 * [domain]_hfs.json - list of corresponding to each test lists of high-fidelity scores for all objects.
 * [domain]_V_sims.npy - matrix of pairwise similarities between objects
+
+
+============================================
+Data that was used for experiments in paper Bayesaian Multi-Fidelity Active Search with Co-kriging is stored in this archive: https://www.dropbox.com/s/6ssuufj99082wri/data_for_reproduction.zip?dl=0
